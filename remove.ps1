@@ -55,4 +55,3 @@ Remove-OfficeKey.ps1
 
     Write-Host "Proses selesai."
 }
-
